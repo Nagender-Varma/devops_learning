@@ -1,0 +1,7 @@
+git config --global user.name "Nagener Varma"
+git config --global user.email "nagendervarma5@gmail.com"
+git init // initialize git repo in local
+git add <filename> //adds file to stage area
+git status // shows status of repo (tracked files)
+git commit -m "message to describe commit" // commits files added in stage area
+git clone -b <name of branch> <https.giturl>  
